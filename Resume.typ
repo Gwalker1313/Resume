@@ -75,20 +75,20 @@
     
     #box(image("assets/phone.svg")) #h(1em) #box()[+1 (435) 669-8325#v(0.25em)]\
     #box(image("assets/mail.svg")) #h(1em) #box()[grifwalker13\@gmail.com#v(0.25em)]\  
-    #box(image("assets/github.svg")) #h(1em) #box()[#link("https://github.com/Gwalker1313")[GitHub]#v(0.25em)]\
-    #box(image("assets/linkedin.svg")) #h(1em) #box()[#link("https://linkedin.com/in/griffin-walker-a6972030a")[LinkedIn]#v(0.25em)]\
+    #box(image("assets/github.svg")) #h(1em) #box()[#link("https://github.com/Gwalker1313")[Gwalker1313]#v(0.25em)]\
+    #box(image("assets/linkedin.svg")) #h(1em) #box()[#link("https://linkedin.com/in/griffin-j-walker")[griffin-j-walker]#v(0.25em)]\
     
     #v(16pt)
 
     == Education
     #line(length: 100%, stroke: white)
-    *University of Utah* #h(1fr) 8/25-12/26\
+    University of Utah #h(1fr) *8/25-12/26*\
     #text(size: 11pt)[
       MS | Computer Science\
       GPA 3.67
     ]
 
-    *University of Utah* #h(1fr) 8/21-5/25\
+    University of Utah #h(1fr) *8/21-5/25*\
     #text(size: 11pt)[
       BS | Computer Science\
       GPA 3.8\
@@ -138,13 +138,13 @@
   box(inset: 36pt)[
     = Profile
     
-    Software developer with experience in product development, industry internships, and instruction/mentorship. Skilled in backend development, data structures/algorithms, desktop/mobile development, and software/architecture design. Passionate about working with talented people, learning new technologies, and solving complex problems. 
+    Software developer with experience in product development, industry internships, and instruction/mentorship. Skilled in backend development, data structures/algorithms, desktop/mobile development, and software/architecture design. Passionate about collaborating with people, learning new technologies, and solving complex problems. 
 
     = Experience
 
     University of Utah, Salt Lake City, UT\
     Kahlert School of Computing\ 
-    Teaching Assistant | Capstone Design #h(1fr)8/25–Present\
+    Teaching Assistant | Capstone Design #h(1fr) *8/25–Present*\
     #text(size: 11pt)[
     #h(1em)#text(size: 6pt)[●]#h(1em) Mentoring 11+ groups in designing and building software\ #h(2.75em) projects of various fields and architecture\ 
     #h(1em)#text(size: 6pt)[●]#h(1em) Facilitating weekly stand-up meetings with teams using\ #h(2.75em) task-management systems to track progress\ 
@@ -152,7 +152,7 @@
     ]
 
     Lindon, UT\ Global Payments\
-    Intern - Software Engineering #h(1fr)5/25–8/25\ 
+    Intern - Software Engineering #h(1fr) *5/25–8/25*\
     #text(size: 11pt)[
     #h(1em)#text(size: 6pt)[●]#h(1em) Led a team of 3 interns delivering 3 POSIX CLI systems\ #h(2.75em) replacing legacy tooling and saving \~5 hours in testing\
 	  #h(1em)#text(size: 6pt)[●]#h(1em) Built a dynamic stored-procedure reporting system decoupled\ #h(2.75em) from database state, eliminating unnecessary recompilation\
@@ -161,7 +161,7 @@
 
     = Projects
 
-    Terminal Ray Tracer | C #h(1fr)5/25\
+    Terminal Ray Tracer | C #h(1fr) *5/25*\
     #text(size: 11pt)[ 
 	  #h(1em)#text(size: 6pt)[●]#h(1em) Built a terminal ASCII ray tracer for real-time rendering\
 	  #h(1em)#text(size: 6pt)[●]#h(1em) Implemented per-pixel ray casting for a voxel world\
@@ -175,21 +175,21 @@
     // #h(1em)#text(size: 6pt)[●]#h(1em)Implemented asynchronous social networking using TCP\
     // ]
       
-    Circuit Simulator | C++ #h(1fr)4/23\
+    Circuit Simulator | C++ #h(1fr) *4/23*\
     #text(size: 11pt)[ 
     #h(1em)#text(size: 6pt)[●]#h(1em)Simulated 2D physics interactions for collision realism\ 
     #h(1em)#text(size: 6pt)[●]#h(1em)Proctored extensive QA for UX/UI via daily experience testing\ 
     #h(1em)#text(size: 6pt)[●]#h(1em)Bridged connections between back/frontend via Qt Creator\   
     ]
 
-    Sprite Animation Editor | C++ #h(1fr)3/23\
+    Sprite Animation Editor | C++ #h(1fr) *3/23*\
     #text(size: 11pt)[ 
     #h(1em)#text(size: 6pt)[●]#h(1em)Created individual frame navigation for animations\ 
     #h(1em)#text(size: 6pt)[●]#h(1em)Embedded a color selector with added hex-code support\ 
     #h(1em)#text(size: 6pt)[●]#h(1em)Implemented resolution toggling for previewing animations\  
     ]
     
-    = Miscellaneous
+    = Extracurricular
     #h(1em)#text(size: 6pt)[●]#h(1em) Nationally ranked in foil fencing
   ]
 )
