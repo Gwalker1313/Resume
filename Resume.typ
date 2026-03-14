@@ -125,9 +125,9 @@
     Kahlert School of Computing\ 
     Teaching Assistant | Capstone Design #h(1fr)8/25–Present\
     #text(size: 11pt)[
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em) Mentoring 11+ groups in designing and building software\ #h(2.75em) projects of various fields and architecture\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em) Facilitating weekly stand-up meetings with teams using\ #h(2.75em) task-management systems to track progress\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em) Handling of student  questions, experience, and subsequent\ #h(2.75em) updates to course material as per feedback\ 
     ]
 
     Lindon, UT\ Global Payments\
