@@ -94,7 +94,7 @@
       GPA 3.8\
       Certificates:\
           #h(1em)#text(size: 6pt)[●]#h(1em) Computer Systems/Security\
-          #h(1em)#text(size: 6pt)[●]#h(1em) Certificate in Data Science\
+          #h(1em)#text(size: 6pt)[●]#h(1em) Data Science\
     ]
 
     #v(16pt)
