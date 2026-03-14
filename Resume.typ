@@ -72,12 +72,12 @@
 
     == Contact
     #line(length: 100%, stroke: white)
-    #text(size: 12pt)[
-      +1 (435) 669-8325\
-      grifwalker13\@gmail.com\  
-      #link("https://github.com/Gwalker1313")[GitHub]\
-      #link("https://linkedin.com/in/griffin-walker-a6972030a")[LinkedIn]\
-    ]
+    
+    #box(image("assets/phone.svg")) #h(1em) #box()[+1 (435) 669-8325#v(0.25em)]\
+    #box(image("assets/mail.svg")) #h(1em) #box()[grifwalker13\@gmail.com#v(0.25em)]\  
+    #box(image("assets/github.svg")) #h(1em) #box()[#link("https://github.com/Gwalker1313")[GitHub]#v(0.25em)]\
+    #box(image("assets/linkedin.svg")) #h(1em) #box()[#link("https://linkedin.com/in/griffin-walker-a6972030a")[LinkedIn]#v(0.25em)]\
+    
 
     #v(16pt)
 
