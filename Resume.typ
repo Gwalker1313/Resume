@@ -68,7 +68,7 @@
 
     ]
 
-    #v(16pt)
+    #v(8pt)
 
     == Contact
     #line(length: 100%, stroke: white)
@@ -110,15 +110,12 @@
       Docker,
       Dynamic-Programming,
       Eclipse,
-      GDB,
       Git,
       Godot,
       Java,
       JavaScript,
       Lean,
-      Microsoft Office,
       Moq,
-      Multicore Programming,
       Multithreading,
       OpenGL,
       PostgreSQL,
