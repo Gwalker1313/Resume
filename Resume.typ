@@ -28,7 +28,6 @@
 
     #align(center)[
       // ======================= Name + Headshot =======================
-      // Headshot
       #box(
         width: 5cm,
         height: 5cm,
@@ -124,7 +123,7 @@
 
     University of Utah, Salt Lake City, UT\
     Kahlert School of Computing\ 
-    Teaching Assistant – Capstone Design #h(1fr)8/25–Present\
+    Teaching Assistant | Capstone Design #h(1fr)8/25–Present\
     #text(size: 11pt)[
     #h(1em)#text(size: 6pt)[●]#h(1em)\ 
     #h(1em)#text(size: 6pt)[●]#h(1em)\ 
@@ -134,14 +133,14 @@
     Lindon, UT\ Global Payments\
     Intern - Software Engineering #h(1fr)5/25–8/25\ 
     #text(size: 11pt)[
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em) Led a team of 3 interns delivering 3 POSIX CLI systems\ #h(2.75em) replacing legacy tooling and saving \~5 hours in testing\
+	  #h(1em)#text(size: 6pt)[●]#h(1em) Built a dynamic stored-procedure reporting system decoupled\ #h(2.75em) from database state, eliminating unnecessary recompilation\
+	  #h(1em)#text(size: 6pt)[●]#h(1em) Automated BIN data pipelines for Visa, Mastercard, and ACH\ #h(2.75em) by normalizing schemas and improving data usability\
 ]
 
     = Projects
 
-    Terminal Ray Tracer - (C) #h(1fr)3/23\
+    Terminal Ray Tracer | C #h(1fr)5/25\
     #text(size: 11pt)[ 
     #h(1em)#text(size: 6pt)[●]#h(1em)\ 
     #h(1em)#text(size: 6pt)[●]#h(1em)\ 
