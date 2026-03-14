@@ -106,14 +106,20 @@
       C,
       C++,
       C\#,
+      Dapper,
       Docker,
       Dynamic-Programming,
       Eclipse,
+      GDB,
       Git,
       Godot,
       Java,
       JavaScript,
+      Lean,
       Microsoft Office,
+      Moq,
+      Multicore Programming,
+      Multithreading,
       OpenGL,
       PostgreSQL,
       PyCharm,
@@ -172,21 +178,21 @@
     // #h(1em)#text(size: 6pt)[●]#h(1em)Implemented asynchronous social networking using TCP\
     // ]
       
-    // Qt (C++) Circuit Simulator #h(1fr)4/23\
-    // #text(size: 11pt)[ 
-    // #h(1em)#text(size: 6pt)[●]#h(1em)Simulated 2D physics interactions for collision realism\ 
-    // #h(1em)#text(size: 6pt)[●]#h(1em)Proctored extensive QA for UX/UI via daily experience testing\ 
-    // #h(1em)#text(size: 6pt)[●]#h(1em)Bridged connections between back/frontend via Qt Creator\   
-    // ]
+    Circuit Simulator | C++ #h(1fr)4/23\
+    #text(size: 11pt)[ 
+    #h(1em)#text(size: 6pt)[●]#h(1em)Simulated 2D physics interactions for collision realism\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em)Proctored extensive QA for UX/UI via daily experience testing\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em)Bridged connections between back/frontend via Qt Creator\   
+    ]
 
-    // Qt (C++) Sprite Animation Editor #h(1fr)3/23\
-    // #text(size: 11pt)[ 
-    // #h(1em)#text(size: 6pt)[●]#h(1em)Created individual frame navigation for animations\ 
-    // #h(1em)#text(size: 6pt)[●]#h(1em)Embedded a color selector with added hex-code support\ 
-    // #h(1em)#text(size: 6pt)[●]#h(1em)Implemented resolution toggling for previewing animations\  
-    // ]
+    Sprite Animation Editor | C++ #h(1fr)3/23\
+    #text(size: 11pt)[ 
+    #h(1em)#text(size: 6pt)[●]#h(1em)Created individual frame navigation for animations\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em)Embedded a color selector with added hex-code support\ 
+    #h(1em)#text(size: 6pt)[●]#h(1em)Implemented resolution toggling for previewing animations\  
+    ]
     
-    == WIP
-    WIP
+    = Miscellaneous
+    #h(1em)#text(size: 6pt)[●]#h(1em) Nationally ranked in foil fencing
   ]
 )
