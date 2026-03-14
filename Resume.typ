@@ -28,25 +28,43 @@
 
     #align(center)[
       // ======================= Name + Headshot =======================
-      #box(
-        width: 5cm,
-        height: 5cm,
-        clip: true,
-        radius: 50%,
-        stroke: 2pt + white,
-        )[
-        #image("assets/PictureOfGriffinJW.jpeg", width: 100%, fit: "cover")
-        ]
+      // #box(
+      //   width: 5cm,
+      //   height: 5cm,
+      //   clip: true,
+      //   radius: 50%,
+      //   stroke: 2pt + white,
+      //   )[
+      //   #image("assets/PictureOfGriffinJW.jpeg", width: 100%, fit: "cover")
+      //   ]
       
 
-      #v(16pt)
+      // #v(16pt)
 
-      #text(size: 24pt, weight: "bold")[Griffin Walker]\
+      // #text(size: 24pt, weight: "bold")[Griffin Walker]\
 
       // ========================= Name only =========================
 
       // #v(1.5em)
       // #text(size: 40pt, weight: "bold",)[Griffin #v(-0.5em) Walker]\
+
+      // ======================= Name + Border =======================
+
+       #box(
+        width: 6cm,
+        height: 6cm,
+        clip: true,
+        radius: 50%,
+        stroke: 2pt + white,
+        fill: rgb("#2C3E50"),
+        align(center + horizon)[
+          // #text(size: 40pt, weight: "bold", fill: white)[Griffin #v(-0.5em) Walker]\
+          #v(2em)
+          #text(size: 40pt, weight: "bold", fill: white, top-edge: 0pt, bottom-edge: 25pt, spacing: 0%)[Griffin]\
+          #line(length: 75%, stroke: 2pt + white)
+          #text(size: 40pt, weight: "bold", fill: white, top-edge: 25pt, bottom-edge: 0pt, spacing: 0%)[Walker]\
+        ]
+      )
 
     ]
 
@@ -136,37 +154,37 @@
     #h(1em)#text(size: 6pt)[●]#h(1em) Led a team of 3 interns delivering 3 POSIX CLI systems\ #h(2.75em) replacing legacy tooling and saving \~5 hours in testing\
 	  #h(1em)#text(size: 6pt)[●]#h(1em) Built a dynamic stored-procedure reporting system decoupled\ #h(2.75em) from database state, eliminating unnecessary recompilation\
 	  #h(1em)#text(size: 6pt)[●]#h(1em) Automated BIN data pipelines for Visa, Mastercard, and ACH\ #h(2.75em) by normalizing schemas and improving data usability\
-]
+    ]
 
     = Projects
 
     Terminal Ray Tracer | C #h(1fr)5/25\
     #text(size: 11pt)[ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)\  
+	  #h(1em)#text(size: 6pt)[●]#h(1em) Built a terminal ASCII ray tracer for real-time rendering\
+	  #h(1em)#text(size: 6pt)[●]#h(1em) Implemented per-pixel ray casting for a voxel world\
+	  #h(1em)#text(size: 6pt)[●]#h(1em) Added interactive first-person terminal movement controls\
     ]
 
-    C Projects and Standard Library Implementations #h(1fr)1/24–5/24\
-    #text(size: 11pt)[ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Engineered a Unix shell with unlimited piping for input/output\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Designed a memory allocator with optimal page-mapping performance\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Implemented asynchronous social networking using TCP\
-    ]
+    // C Projects and Standard Library Implementations #h(1fr)1/24–5/24\
+    // #text(size: 11pt)[ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Engineered a Unix shell with unlimited piping for input/output\ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Designed a memory allocator with optimal page-mapping performance\ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Implemented asynchronous social networking using TCP\
+    // ]
       
-    Qt (C++) Circuit Simulator #h(1fr)4/23\
-    #text(size: 11pt)[ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Simulated 2D physics interactions for collision realism\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Proctored extensive QA for UX/UI via daily experience testing\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Bridged connections between back/frontend via Qt Creator\   
-    ]
+    // Qt (C++) Circuit Simulator #h(1fr)4/23\
+    // #text(size: 11pt)[ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Simulated 2D physics interactions for collision realism\ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Proctored extensive QA for UX/UI via daily experience testing\ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Bridged connections between back/frontend via Qt Creator\   
+    // ]
 
-    Qt (C++) Sprite Animation Editor #h(1fr)3/23\
-    #text(size: 11pt)[ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Created individual frame navigation for animations\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Embedded a color selector with added hex-code support\ 
-    #h(1em)#text(size: 6pt)[●]#h(1em)Implemented resolution toggling for previewing animations\  
-    ]
+    // Qt (C++) Sprite Animation Editor #h(1fr)3/23\
+    // #text(size: 11pt)[ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Created individual frame navigation for animations\ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Embedded a color selector with added hex-code support\ 
+    // #h(1em)#text(size: 6pt)[●]#h(1em)Implemented resolution toggling for previewing animations\  
+    // ]
     
     == WIP
     WIP
