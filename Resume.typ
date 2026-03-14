@@ -78,7 +78,6 @@
     #box(image("assets/github.svg")) #h(1em) #box()[#link("https://github.com/Gwalker1313")[GitHub]#v(0.25em)]\
     #box(image("assets/linkedin.svg")) #h(1em) #box()[#link("https://linkedin.com/in/griffin-walker-a6972030a")[LinkedIn]#v(0.25em)]\
     
-
     #v(16pt)
 
     == Education
@@ -128,6 +127,7 @@
       SQLite,
       Tailwind CSS,
       TypeScript,
+      Typst,
       Unity,
       Visual Studio,
       VSCode
